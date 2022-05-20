@@ -12,6 +12,10 @@ code {
 	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
 		monospace;
 }
+.grap-img {
+	width: 100%;
+	height: 100%;
+}
 
 .custom-shape-divider-top-1652779218 {
 	position: absolute;
