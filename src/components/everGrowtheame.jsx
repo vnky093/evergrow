@@ -11,7 +11,7 @@ const EverGrowTheame = () => {
 		<div className='themebody'>
 			<div className='theam-content'>
 				<div className=' row'>
-					<div className='theam-contenr col-md-5'>
+					<div className='theam-contenr col-md-4'>
 						<h1>HYPER DEFLATIONARY TOKEN WITH $BUSD REFLECTIONS</h1>
 						<p>
 							EverGrow works on an autonomous, frictionless, yield farming and
@@ -42,7 +42,7 @@ const EverGrowTheame = () => {
 						</div>
 					</div>
 
-					<div className='theam-contenr col-md-6 mt-3'>
+					<div className='theam-contenr col-md-5 mt-3'>
 						<img className='grap-img' src={Graph} alt='' />
 					</div>
 				</div>
